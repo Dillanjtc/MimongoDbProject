@@ -1,0 +1,51 @@
+﻿@{
+    Layout = null;
+}
+<div class="text-danger" asp-validation-summary="All"></div>
+
+<form method="post">
+    <div class="form-group">
+        <label>Email</label>
+        <input name="email" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Password</label>
+        <input name="password" class="form-control" />
+    </div>
+    <button class="btn btn-primary" type="submit">Log In</button>
+</form>
+
+<head>
+    <title>Login</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<div class="text-danger" asp-validation-summary="All"></div>
+
+<form method="post">
+    <div class="form-group">
+        <label>Email</label>
+        <input name="email" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Password</label>
+        <input name="password" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Log In</button>
+    ¿No tienes una cuenta?<a asp-controller="Operations" asp-action="Create">Registrate ya!</a>
+    <br>
+    <br>
+    <div>
+        <a asp-action="LoginWithFacebook" class="btn btn-primary">Login with Facebook</a>
+    </div>
+
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

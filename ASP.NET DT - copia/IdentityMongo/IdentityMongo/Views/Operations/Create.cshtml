@@ -1,0 +1,36 @@
+﻿@model User
+@{
+    Layout = null;
+}
+
+<div asp-validation-summary="All" class="text-danger"></div>
+<head>
+    <title>Login</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+
+@if (ViewBag.Message != null)
+{
+    <div class="p-1 mb-2 bg-success text-white">@ViewBag.Message</div>
+}
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input asp-for="Email" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Password"></label>
+        <input asp-for="Password" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Crear</button>
+    <br>
+    ¿Ya tienes una cuenta?<a asp-controller="Account" asp-action="Login">Inicia sesion!</a>
+    <br>
+</form>

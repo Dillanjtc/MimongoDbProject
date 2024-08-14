@@ -1,0 +1,65 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    
+}
+@{
+    if (User?.Identity?.IsAuthenticated ?? false)
+    {
+        <li class="nav-item">
+            <div class="text-center">
+            <a>Welcome: @User.Identity.Name</a>
+            <a asp-controller="Account" asp-action="Logout" class="btn btn-danger">Logout</a>
+            </div>
+        </li>
+
+    }
+
+    @if (TempData["WelcomeMessage"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["WelcomeMessage"]
+            <a asp-controller="Account" asp-action="Logout" class="btn btn-danger ml-2">Logout</a>
+        </div>
+    }
+
+}
+<br><br><br><br><br>
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classic & Sports Car</title>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <div class="main-content">
+        <div class="header">
+            <div class="logo">CLASSIC & SPORTS CAR</div>
+        </div>
+        <div class="content">
+            <div class="car-card">
+                <img src="/img/Classic.jpg" alt="Bufori" class="car-image">
+                <div class="car-info">
+                    <h3>BUFORI</h3>
+                    <p>BUFORI is a brand of hand-built automobiles inspired by American 1930s coupes.</p>
+                </div>
+               
+            </div>
+            <div class="car-card">
+                <img src="/img/ford-performance-1220904.jpg" alt="1950s Thunderbird" class="car-image">
+                <div class="car-info">
+                    <h3>1950s THUNDERBIRD</h3>
+                    <p>The first generation of the Ford Thunderbird is a two-seat convertible.</p>
+                </div>
+                
+            </div>
+            <div class="view-all">
+                <button><a href="https://es.ford.com/performance/gt/" > Ve mas </a></button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+

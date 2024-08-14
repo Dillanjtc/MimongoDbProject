@@ -1,0 +1,188 @@
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\bin\Debug\net8.0\appsettings.Development.json
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\bin\Debug\net8.0\appsettings.json
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\bin\Debug\net8.0\IdentityMongo.staticwebassets.runtime.json
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\bin\Debug\net8.0\IdentityMongo.exe
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\bin\Debug\net8.0\IdentityMongo.deps.json
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\bin\Debug\net8.0\IdentityMongo.runtimeconfig.json
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\bin\Debug\net8.0\IdentityMongo.dll
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\bin\Debug\net8.0\IdentityMongo.pdb
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\bin\Debug\net8.0\AspNetCore.Identity.MongoDbCore.dll
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\bin\Debug\net8.0\DnsClient.dll
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\bin\Debug\net8.0\MongoDB.Bson.dll
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\bin\Debug\net8.0\MongoDB.Driver.dll
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\bin\Debug\net8.0\MongoDbGenericRepository.dll
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\bin\Debug\net8.0\SharpCompress.dll
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\bin\Debug\net8.0\runtimes\win\native\libzstd.dll
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\bin\Debug\net8.0\runtimes\win\native\snappy32.dll
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\bin\Debug\net8.0\runtimes\win\native\snappy64.dll
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.csproj.AssemblyReference.cache
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.AssemblyInfoInputs.cache
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.AssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.csproj.CoreCompileInputs.cache
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.MvcApplicationPartsAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.RazorAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.RazorAssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets.build.json
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets.development.json
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets\msbuild.IdentityMongo.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets\msbuild.build.IdentityMongo.props
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IdentityMongo.props
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IdentityMongo.props
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\obj\Debug\net8.0\scopedcss\bundle\IdentityMongo.styles.css
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\obj\Debug\net8.0\scopedcss\projectbundle\IdentityMongo.bundle.scp.css
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.csproj.CopyComplete
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.dll
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\obj\Debug\net8.0\refint\IdentityMongo.dll
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.pdb
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.genruntimeconfig.cache
+E:\Yogesh\SEO\Yogihosting\codes-new\IdentityMongo\IdentityMongo\obj\Debug\net8.0\ref\IdentityMongo.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\bin\Debug\net8.0\IdentityMongo.staticwebassets.runtime.json
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\bin\Debug\net8.0\IdentityMongo.exe
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\bin\Debug\net8.0\IdentityMongo.deps.json
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\bin\Debug\net8.0\IdentityMongo.runtimeconfig.json
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\bin\Debug\net8.0\IdentityMongo.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\bin\Debug\net8.0\IdentityMongo.pdb
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\bin\Debug\net8.0\AspNetCore.Identity.MongoDbCore.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\bin\Debug\net8.0\DnsClient.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\bin\Debug\net8.0\MongoDbGenericRepository.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\bin\Debug\net8.0\runtimes\win\native\libzstd.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\bin\Debug\net8.0\runtimes\win\native\snappy32.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\bin\Debug\net8.0\runtimes\win\native\snappy64.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.AssemblyInfo.cs
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets\msbuild.IdentityMongo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets\msbuild.build.IdentityMongo.props
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IdentityMongo.props
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IdentityMongo.props
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\obj\Debug\net8.0\scopedcss\bundle\IdentityMongo.styles.css
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\obj\Debug\net8.0\scopedcss\projectbundle\IdentityMongo.bundle.scp.css
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\obj\Debug\net8.0\Identity.8A1119D9.Up2Date
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\obj\Debug\net8.0\refint\IdentityMongo.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.pdb
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.genruntimeconfig.cache
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main\IdentityMongo\IdentityMongo\obj\Debug\net8.0\ref\IdentityMongo.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\bin\Debug\net8.0\IdentityMongo.staticwebassets.runtime.json
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\bin\Debug\net8.0\IdentityMongo.exe
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\bin\Debug\net8.0\IdentityMongo.deps.json
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\bin\Debug\net8.0\IdentityMongo.runtimeconfig.json
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\bin\Debug\net8.0\IdentityMongo.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\bin\Debug\net8.0\IdentityMongo.pdb
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\bin\Debug\net8.0\AspNetCore.Identity.MongoDbCore.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\bin\Debug\net8.0\DnsClient.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\bin\Debug\net8.0\MongoDbGenericRepository.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\bin\Debug\net8.0\runtimes\win\native\libzstd.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\bin\Debug\net8.0\runtimes\win\native\snappy32.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\bin\Debug\net8.0\runtimes\win\native\snappy64.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.AssemblyInfo.cs
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets\msbuild.IdentityMongo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets\msbuild.build.IdentityMongo.props
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IdentityMongo.props
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IdentityMongo.props
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\obj\Debug\net8.0\scopedcss\bundle\IdentityMongo.styles.css
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\obj\Debug\net8.0\scopedcss\projectbundle\IdentityMongo.bundle.scp.css
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\obj\Debug\net8.0\Identity.8A1119D9.Up2Date
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\obj\Debug\net8.0\refint\IdentityMongo.dll
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.pdb
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.genruntimeconfig.cache
+C:\Users\HP\Desktop\ASP.NET-Core-Identity-with-MongoDB-as-Database-main - copia\IdentityMongo\IdentityMongo\obj\Debug\net8.0\ref\IdentityMongo.dll
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\bin\Debug\net8.0\appsettings.json
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\bin\Debug\net8.0\IdentityMongo.staticwebassets.runtime.json
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\bin\Debug\net8.0\IdentityMongo.exe
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\bin\Debug\net8.0\IdentityMongo.deps.json
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\bin\Debug\net8.0\IdentityMongo.runtimeconfig.json
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\bin\Debug\net8.0\IdentityMongo.dll
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\bin\Debug\net8.0\IdentityMongo.pdb
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\bin\Debug\net8.0\AspNetCore.Identity.MongoDbCore.dll
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\bin\Debug\net8.0\MongoDbGenericRepository.dll
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\bin\Debug\net8.0\runtimes\win\native\libzstd.dll
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\bin\Debug\net8.0\runtimes\win\native\snappy32.dll
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\bin\Debug\net8.0\runtimes\win\native\snappy64.dll
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.csproj.AssemblyReference.cache
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.AssemblyInfoInputs.cache
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.AssemblyInfo.cs
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.csproj.CoreCompileInputs.cache
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.RazorAssemblyInfo.cache
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.RazorAssemblyInfo.cs
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets\msbuild.IdentityMongo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets\msbuild.build.IdentityMongo.props
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IdentityMongo.props
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IdentityMongo.props
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\obj\Debug\net8.0\scopedcss\bundle\IdentityMongo.styles.css
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\obj\Debug\net8.0\scopedcss\projectbundle\IdentityMongo.bundle.scp.css
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\obj\Debug\net8.0\Identity.8A1119D9.Up2Date
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.dll
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\obj\Debug\net8.0\refint\IdentityMongo.dll
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.pdb
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\obj\Debug\net8.0\IdentityMongo.genruntimeconfig.cache
+C:\Users\Super Usuario\Desktop\ASP.NET DT\IdentityMongo\IdentityMongo\obj\Debug\net8.0\ref\IdentityMongo.dll
